@@ -1,5 +1,8 @@
 # Blockout Breakout
 
+![Game preview](preview.png)
+
+
 A Breakout-style arcade game for the Omarchy shell. Clear ten increasingly fast levels, chase a high score, crack special ice blocks, and collect missile-launcher power-ups without losing all three lives.
 
 ## Gameplay
