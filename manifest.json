@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "sethchev.blockout-breakout",
+  "name": "Blockout Breakout",
+  "version": "0.1.0",
+  "author": "sethchev",
+  "license": "MIT",
+  "description": "A classic Breakout arcade game for omarchy-shell.",
+  "kinds": ["panel"],
+  "entryPoints": {
+    "panel": "Panel.qml"
+  }
+}
